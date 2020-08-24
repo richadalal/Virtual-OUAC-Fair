@@ -1,0 +1,65 @@
+body {
+  background-image: url("https://cdn.glitch.com/72a6d812-fc9e-4b88-9ff0-5c07964bc67f%2F12e90d9b992c75d6cfefa2e05dc70f8a.jpg?v=1598291857166");
+  background-color: #fffff;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  height:  auto;
+ border-radius: 300%;
+  width: 200px;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+.container {
+    width: 100%;
+    max-width: 680px;
+    margin: 0 auto;
+}
+
+/* Header */
+
+
+
+.user-name {
+  text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+}
+
+.user-name a {
+   color: #000000
+;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: Trebuchet MS;
+}
+
+
+.link {
+    display: block;
+    background-color: #DDA0DD;
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+    font-family: Trebuchet MS;
+    font-weight: 600;
+    padding: 15px 0 15px 0;
+    margin: 12px 0 11px 0;
+    border: 2px solid #3d3b3c;
+}
+
+.link:hover {
+    color: #3d3b3c;
+    background-color: #fff;
+}
+
+
+
