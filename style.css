@@ -17,6 +17,26 @@ a {
   text-decoration: none;
 }
 
+.link {
+    display: block;
+    background-color: #DDA0DD;
+    font-weight: 600;
+    padding: 15px 0 15px 0;
+    margin: 12px 0 11px 0;
+    border: 2px solid #3d3b3c;
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+    font-family: Trebuchet MS;
+ 
+}
+
+.link:hover {
+    color: #3d3b3c;
+    background-color: #fff;
+}
+
+
 .container {
     width: 100%;
     max-width: 680px;
@@ -43,23 +63,6 @@ a {
 }
 
 
-.link {
-    display: block;
-    background-color: #DDA0DD;
-    color: #fff;
-    text-align: center;
-    font-size: 1rem;
-    font-family: Trebuchet MS;
-    font-weight: 600;
-    padding: 15px 0 15px 0;
-    margin: 12px 0 11px 0;
-    border: 2px solid #3d3b3c;
-}
-
-.link:hover {
-    color: #3d3b3c;
-    background-color: #fff;
-}
 
 
 
